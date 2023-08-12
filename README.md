@@ -1,1 +1,1 @@
-Here I've implemented the basic coding into CUDA code for GPU
+Here I've implemented the basic code into CUDA code for GPU
